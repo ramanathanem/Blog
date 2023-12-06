@@ -1,6 +1,6 @@
 Output
 
-![Uploading screencapture-localhost-3000-2023-12-06-22_01_40.png…]()
+![Uploading Capture.PNG…]()
 
 
 
