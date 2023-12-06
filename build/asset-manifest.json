@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ramanathanem/Blog.git/static/css/main.f2419f8e.css",
+    "main.js": "/ramanathanem/Blog.git/static/js/main.9abb14ab.js",
+    "static/js/787.d4aba7ab.chunk.js": "/ramanathanem/Blog.git/static/js/787.d4aba7ab.chunk.js",
+    "static/media/na.png": "/ramanathanem/Blog.git/static/media/na.4662009ce12571051b2c.png",
+    "static/media/online.png": "/ramanathanem/Blog.git/static/media/online.9abd1438b031e8bf34bf.png",
+    "static/media/acc1.jpg": "/ramanathanem/Blog.git/static/media/acc1.e2162c052139680a56fa.jpg",
+    "static/media/nadi1.gif": "/ramanathanem/Blog.git/static/media/nadi1.c60291504a89287b22ac.gif",
+    "static/media/tele.png": "/ramanathanem/Blog.git/static/media/tele.0b8e9bb7af3d5b4174dd.png",
+    "index.html": "/ramanathanem/Blog.git/index.html",
+    "main.f2419f8e.css.map": "/ramanathanem/Blog.git/static/css/main.f2419f8e.css.map",
+    "main.9abb14ab.js.map": "/ramanathanem/Blog.git/static/js/main.9abb14ab.js.map",
+    "787.d4aba7ab.chunk.js.map": "/ramanathanem/Blog.git/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2419f8e.css",
+    "static/js/main.9abb14ab.js"
+  ]
+}

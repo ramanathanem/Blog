@@ -1,0 +1,12 @@
+h1{
+    margin-top: 50px;
+}
+h4{
+    margin-top: 20px;
+}
+h3{
+    margin-top: 80px;
+}
+#cart{
+    display: flex;
+}
