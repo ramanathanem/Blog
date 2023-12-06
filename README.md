@@ -1,3 +1,9 @@
+Output
+
+![Uploading screencapture-localhost-3000-2023-12-06-22_01_40.png…]()
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
